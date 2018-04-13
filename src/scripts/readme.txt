@@ -1,0 +1,1 @@
+-JS scripts go in this folder (ex: file.js).

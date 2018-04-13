@@ -1,0 +1,2 @@
+-Here is the application provided by PhaserJS.
+-Do not modify its contents.
