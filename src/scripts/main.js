@@ -49,3 +49,5 @@ function create() {
 
 function update() {
 }
+
+console.log("Qualquer coisa");
