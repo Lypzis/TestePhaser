@@ -49,3 +49,5 @@ function create() {
 
 function update() {
 }
+
+console.log('I sucefully executed!');
